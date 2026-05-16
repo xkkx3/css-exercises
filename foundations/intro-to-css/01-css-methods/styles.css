@@ -1,21 +1,7 @@
-div, p {
-	color: white;
-}
-
 div {
 	background-color: red;
 	font-size: 32px;
 	text-align: center;
 	font-weight: bold;
-}
-
-p {
-	background-color: green;
-}
-
-button {
-	background-color: orange;
-
-p button {
-	font-size: 18px;
+	color: white;
 }
