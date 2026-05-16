@@ -1,3 +1,7 @@
+div, p {
+	color: white;
+}
+
 div {
 	background-color: red;
 	font-size: 32px;
@@ -11,10 +15,6 @@ p {
 
 button {
 	background-color: orange;
-
-div p {
-	color: white;
-}
 
 p button {
 	font-size: 18px;
