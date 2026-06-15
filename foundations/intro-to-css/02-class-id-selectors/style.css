@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 
-.light-red.font {
-	background-color: rgb(70, 0, 0);
+.light-red-bckrd {
+	background-color: rgb(255, 0, 70);
 	font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -10,12 +10,12 @@
 	font-size: 36px;
 }
 
-.font-size {
+.light-red-bckrd.font-size {
 	font-size: 24px;
 }
 
-#light-green-font-size-bold {
-	background-color: rgb(0, 55, 0);
+#light-green-bckrd-bold {
+	background-color: rgb(0, 255, 0);
 	font-size: 24px;
 	font-weight: bold;
 }
